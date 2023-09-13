@@ -28,7 +28,7 @@ So, whether you're a seasoned professional looking to deepen your analytical ski
 
 ## Key Concepts
 - [Marketing Mix and 4 p's of marketing:](./Key%20Concepts/4_ps_marketing.md) 
-
+- [Determining Market size](./Key%20Concepts/determining_market_size.md)
 
 ## Data Sources
 - [Google Ads](./Data%20Sources/google_ads.md)
